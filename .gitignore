@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+spreadsheets/
+__pycache__/
+db/__pycache__/
+webscraper/__pycache__/
