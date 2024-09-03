@@ -2,11 +2,13 @@
 
 This project is still in the developing phase. The project aims to create a web app bot in Telegram. The bot crawls the BBC Burmese website to display news contents. This way, Telegram users can now read news without having to leave the app.
 
-Initially, this branch is used to develop the custom crawler to scrape contents from-
+Initially, the main branch is used to develop the custom crawler to scrape contents from-
 1. BBC Burmese
 2. Yangon Khit Thit Media
 
 For the specific implementation, I chose the **BBC Burmese**.
+
+This branch explores and experiments with Docker to host DynamoDB database.
 
 ## Files and Directories
 There are several folders and files in this repository-
